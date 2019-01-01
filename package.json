@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "api-tests-production": "newman run tests/PostMan Lerning.postman_collection.json"
+    "api-tests-production": "newman run tests/PostMan.json"
   },
   "author": "abhishek gupta",
   "dependencies": {
